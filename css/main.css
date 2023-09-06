@@ -30,7 +30,8 @@ body{
     left: 0;
     right: 0;
     background: var(--mainWhite);
-    z-index: 99;
+    z-index: 99.5;
+
 }
 .hidePreloader{
     display: none!important;
