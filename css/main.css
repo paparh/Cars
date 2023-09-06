@@ -193,6 +193,7 @@ body{
 }
 .question-brown{
     background: rgb(156, 59, 7,0.75);
+    color: #011409;
 }
 .question-icon{
     font-size: 4rem;
